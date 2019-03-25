@@ -1,0 +1,17 @@
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Ordemaniento.Prueba.deps.json
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Ordemaniento.Prueba.runtimeconfig.json
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Ordemaniento.Prueba.runtimeconfig.dev.json
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Ordemaniento.Prueba.dll
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Ordemaniento.Prueba.pdb
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.dll
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\bin\Debug\netcoreapp2.2\Ordenamiento.pdb
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\obj\Debug\netcoreapp2.2\Ordemaniento.Prueba.csprojAssemblyReference.cache
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\obj\Debug\netcoreapp2.2\Ordemaniento.Prueba.csproj.CoreCompileInputs.cache
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\obj\Debug\netcoreapp2.2\Ordemaniento.Prueba.AssemblyInfoInputs.cache
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\obj\Debug\netcoreapp2.2\Ordemaniento.Prueba.AssemblyInfo.cs
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\obj\Debug\netcoreapp2.2\Ordemaniento.Prueba.csproj.CopyComplete
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\obj\Debug\netcoreapp2.2\Ordemaniento.Prueba.dll
+c:\Users\Michelita\Desktop\tdd-MaricruzCF\Ordemaniento.Prueba\obj\Debug\netcoreapp2.2\Ordemaniento.Prueba.pdb
